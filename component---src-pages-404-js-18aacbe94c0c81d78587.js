@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknew_salspot_software=self.webpackChunknew_salspot_software||[]).push([[125],{3331:function(e,t,n){n.r(t),n.d(t,{default:function(){return o}});var u=n(6540);function o(){return u.createElement("div",null," 404 Page Not found Redirecting to home")}}}]);
+//# sourceMappingURL=component---src-pages-404-js-18aacbe94c0c81d78587.js.map
